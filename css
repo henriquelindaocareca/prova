@@ -13,7 +13,7 @@ header {
 }
 
 .creatina {
-    width: 30%;
+    width: 38%;
     cursor: move;
 }
 
@@ -24,8 +24,28 @@ header {
 }
 
 .texto {
-   background-image: linear-gradient(#424E62, #4EBFE9);
+   background-image: linear-gradient(#052050, #4EBFE9);
     font-family: 'Oswald', sans-serif;
     text-align: center;
     color: white;
+}
+
+a:visited {
+    color: azure;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(8, 250, 0);
+    text-decoration: none;
+}
+
+.segundotexto {
+    color: azure;
+    font-family: 'Bebas Neue', cursive;
+    padding: 10px;
+}
+
+.link {
+    padding: 10px;
 }
