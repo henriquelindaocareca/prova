@@ -12,15 +12,22 @@ header {
  
 }
 
-.creatina {
-    width: 38%;
+#creatina {
+    width: 200px;
     cursor: move;
+    display: flex;
 }
+.creatina2 {
+    width: 30%;
+    cursor: move;
+    display: flex;
+}
+
 
 .lista {
 
     margin: 20px 0 16px;
-    font-size: 24px;
+    font-size: 40px;
 }
 
 .texto {
@@ -36,7 +43,7 @@ a:visited {
 }
 
 a:hover{
-    color: rgb(8, 250, 0);
+    color: rgb(250, 252, 255);
     text-decoration: none;
 }
 
@@ -49,3 +56,9 @@ a:hover{
 .link {
     padding: 10px;
 }
+
+.texto {
+    font-size: 50px;
+}
+
+
